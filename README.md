@@ -29,7 +29,7 @@ I'm Daniel, but people usually call me by my surname, Koganas. I am a creative d
 [![jQuery Badge](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white&link=https://jquery.com/)](https://jquery.com/)
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white&link=https://getbootstrap.com/)](https://getbootstrap.com/)
 [![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white&link=https://www.postman.com/)](https://www.postman.com/)
-[![D3.js Badge](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=black&link=https://d3js.org/)](https://d3js.org/)
+[![D3.js Badge](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=white&link=https://d3js.org/)](https://d3js.org/)
 
 #### Dev Ops
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/)](https://github.com/)
@@ -41,7 +41,7 @@ I'm Daniel, but people usually call me by my surname, Koganas. I am a creative d
 #### Design Tools
 [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white&link=https://www.figma.com/)](https://www.figma.com/)
 [![Sketch Badge](https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=Sketch&logoColor=black&link=https://www.sketch.com/)](https://www.sketch.com/)
-[![InVision Badge](https://img.shields.io/badge/-InVision-FF3366?style=flat-square&logo=InVision&logoColor=black&link=https://www.invision.com/)](https://www.invision.com/)
+[![InVision Badge](https://img.shields.io/badge/-InVision-FF3366?style=flat-square&logo=InVision&logoColor=white&link=https://www.invision.com/)](https://www.invision.com/)
 [![Photoshop Badge](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white&link=https://www.adobe.com/products/photoshop.html)](https://www.adobe.com/products/photoshop.html)
 [![Illustrator Badge](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white&link=https://www.adobe.com/products/illustrator.html)](https://www.adobe.com/products/illustrator.html)
 [![InDesign Badge](https://img.shields.io/badge/-InDesign-FF3366?style=flat-square&logo=Adobe%20InDesign&logoColor=white&link=https://www.adobe.com/products/indesign.html)](https://www.adobe.com/products/indesign.html)
