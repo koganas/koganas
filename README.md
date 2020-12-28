@@ -15,6 +15,7 @@ I'm Daniel, but people usually call me by my surname, Koganas. I am a creative d
 [![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white&link=https://angular.io/)](https://angular.io/)
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white&link=https://www.w3schools.com/css/)](https://www.w3schools.com/css/)
+
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&link=https://nodejs.org/)](https://nodejs.org/)
 [![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white&link=https://www.php.net/)](https://www.php.net/)
 [![Rails Badge](https://img.shields.io/badge/-Rails-336791?style=flat-square&logo=Ruby%20on%20Rails&logoColor=white&link=https://rubyonrails.org/)](https://rubyonrails.org/)
