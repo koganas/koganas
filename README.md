@@ -5,7 +5,7 @@ I'm Daniel. People usually call me Koganas - my surname. I am a creative develop
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/koganas)](https://github.com/koganas)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koganas/)](https://www.linkedin.com/in/koganas/)
-[![Gmail Badge](https://img.shields.io/badge/-E-mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:danielsank@gmail.com)](mailto:danielsank@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-E-mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:danielsank@gmail.com)
 
 
 #### App and Data
