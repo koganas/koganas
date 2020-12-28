@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/koganas)](https://github.com/koganas)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koganas/)](https://www.linkedin.com/in/koganas/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/koganas)](https://github.com/koganas)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koganas/)](https://www.linkedin.com/in/koganas/)
 
 <!--
 **koganas/koganas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
