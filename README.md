@@ -7,7 +7,7 @@ I'm Daniel. People usually call me Koganas - my surname. I am a creative develop
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koganas/)](https://www.linkedin.com/in/koganas/)
 
 
-[![HTML5 Badge](https://img.shields.io/badge/?style=for-the-badge&logo=HTML5&logoColor=E34F26&logoWidth=50&link=https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
+[![HTML5 Badge](https://img.shields.io/badge/-transparent?style=for-the-badge&logo=HTML5&logoColor=E34F26&logoWidth=50&link=https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 
 <!--
 
