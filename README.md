@@ -9,7 +9,7 @@ I'm Daniel, but people usually call me by my surname, Koganas. I am a creative d
 ### Dev Stack Experience
 
 #### App and Data
-[![JavaScript Badge](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=20232a&link=https://reactjs.org)](https://reactjs.org)
 [![Vue Badge](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white&link=https://vuejs.org/)](https://vuejs.org/)
 [![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white&link=https://angular.io/)](https://angular.io/)
