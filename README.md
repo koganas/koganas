@@ -4,7 +4,10 @@ I'm Daniel, but people usually call me by my surname, Koganas. 😄 I am a creat
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koganas/)](https://www.linkedin.com/in/koganas/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:danielsank@gmail.com)](mailto:danielsank@gmail.com)
+[![CodePen Badge](https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/koganas)](https://codepen.io/koganas)
 
+
+<!--
 
 ### Dev Stack Experience
 
@@ -51,7 +54,6 @@ I'm Daniel, but people usually call me by my surname, Koganas. 😄 I am a creat
 [![Notion Badge](https://img.shields.io/badge/-Notion-000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/)](https://www.notion.so/)
 [![Jira Badge](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira%20Software&logoColor=white&link=https://www.atlassian.com/br/software/jira)](https://www.atlassian.com/br/software/jira)
 
-<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
