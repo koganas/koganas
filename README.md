@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Daniel, but people usually call me by my surname, Koganas. 😄  I am a creative developer interested on the fields of web and mobile development, user experience and user interface design. I’m currently working at [EBANX](https://github.com/ebanx).
+I'm Daniel, but people usually call me by my surname, Koganas. 😄  I am a creative developer interested on the fields of web and mobile development, user experience and user interface design. I’m currently working at [Dog and Pony Studios](https://dogandponystudios.com).
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koganas/)](https://www.linkedin.com/in/koganas/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:danielsank@gmail.com)](mailto:danielsank@gmail.com)
