@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 I'm Daniel, but people usually call me by my surname, Koganas. 😄  I am a creative developer interested on the fields of web and mobile development, user experience and user interface design. I’m currently working at [Dog and Pony Studios](https://dogandponystudios.com).
 
