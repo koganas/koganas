@@ -6,6 +6,7 @@ I'm Daniel, but some friends usually call me by my surname, Koganas.  I am a cre
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:danielsank@gmail.com)](mailto:danielsank@gmail.com)
 [![CodePen Badge](https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/koganas)](https://codepen.io/koganas)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koganas&layout=compact)](https://github.com/koganas)
 
 <!--
 
