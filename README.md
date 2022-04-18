@@ -23,7 +23,6 @@ I'm Daniel, but some friends usually call me by my surname, Koganas.  I am a cre
 [![Wordpress Badge](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&logoColor=white&link=https://wordpress.org/)](https://wordpress.org/)
 [![PostCSS Badge](https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white&link=https://postcss.org/)](https://postcss.org/)
 [![jQuery Badge](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white&link=https://jquery.com/)](https://jquery.com/)
-[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white&link=https://getbootstrap.com/)](https://getbootstrap.com/)
 [![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white&link=https://www.postman.com/)](https://www.postman.com/)
 [![D3.js Badge](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=white&link=https://d3js.org/)](https://d3js.org/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/)](https://github.com/)
