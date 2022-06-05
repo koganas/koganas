@@ -11,7 +11,6 @@ I'm Daniel, but some friends usually call me by my surname, Koganas.  I am a cre
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=20232a&link=https://reactjs.org)](https://reactjs.org)
 [![Vue Badge](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white&link=https://vuejs.org/)](https://vuejs.org/)
-[![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white&link=https://angular.io/)](https://angular.io/)
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white&link=https://www.w3schools.com/css/)](https://www.w3schools.com/css/)
 [![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white&link=https://www.php.net/)](https://www.php.net/)
@@ -26,8 +25,6 @@ I'm Daniel, but some friends usually call me by my surname, Koganas.  I am a cre
 [![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white&link=https://www.postman.com/)](https://www.postman.com/)
 [![D3.js Badge](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=white&link=https://d3js.org/)](https://d3js.org/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/)](https://github.com/)
-[![Cloud Badge](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white&link=https://cloud.google.com/)](https://cloud.google.com/)
-[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)
 
 #### 🎨 Design Tools
 [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white&link=https://www.figma.com/)](https://www.figma.com/)
