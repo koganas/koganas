@@ -7,6 +7,9 @@ I'm Daniel, but some friends usually call me by my surname, Koganas.  I am a cre
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:danielsank@gmail.com)](mailto:danielsank@gmail.com)
 [![CodePen Badge](https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/koganas)](https://codepen.io/koganas)
 
+
+<!--
+
 #### 🛠 Tech Stack
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=20232a&link=https://reactjs.org)](https://reactjs.org)
@@ -40,6 +43,5 @@ I'm Daniel, but some friends usually call me by my surname, Koganas.  I am a cre
 [![Asana Badge](https://img.shields.io/badge/-Asana-fC636B?style=flat-square&logo=Asana&logoColor=white&link=https://www.asana.com/)](https://www.asana.com/)
 
 
-<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koganas&layout=compact)](https://github.com/koganas)
 -->
