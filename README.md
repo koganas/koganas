@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Daniel, but some friends usually call me by my surname, Koganas.  I am a creative developer interested on the fields of web and mobile development, user experience and user interface design. I’m currently working at [Dog and Pony Studios](https://dogandponystudios.com).
+I'm Daniel, but some friends usually call me by my surname, Koganas.  I am a creative developer interested on the fields of web and mobile development, user experience and user interface design. I’m currently working as a Lead Developer at [Dog and Pony Studios](https://dogandponystudios.com).
 
 #### 🤝 Connect
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koganas/)](https://www.linkedin.com/in/koganas/)
